@@ -1,0 +1,19 @@
+{
+    "name": "vexpress",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mime": "^2.4.4",
+        "path-to-regexp": "^3.0.0",
+        "statuses": "^1.5.0"
+    }
+}
